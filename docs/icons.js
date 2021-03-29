@@ -49,6 +49,10 @@ module.exports = {
       name: "Line Awesome"
     },
     {
+      id: "md",
+      name: "Material Design icons"
+    },
+    {
       id: "oi",
       name: "Octicons"
     },
